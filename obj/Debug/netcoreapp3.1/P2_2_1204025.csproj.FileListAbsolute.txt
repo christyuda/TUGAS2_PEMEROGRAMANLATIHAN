@@ -1,0 +1,13 @@
+D:\tugas\P2_2_1204025\bin\Debug\netcoreapp3.1\P2_2_1204025.exe
+d:\tugas\P2_2_1204025\bin\Debug\netcoreapp3.1\P2_2_1204025.deps.json
+d:\tugas\P2_2_1204025\bin\Debug\netcoreapp3.1\P2_2_1204025.runtimeconfig.json
+d:\tugas\P2_2_1204025\bin\Debug\netcoreapp3.1\P2_2_1204025.runtimeconfig.dev.json
+D:\tugas\P2_2_1204025\bin\Debug\netcoreapp3.1\P2_2_1204025.dll
+D:\tugas\P2_2_1204025\bin\Debug\netcoreapp3.1\P2_2_1204025.pdb
+D:\tugas\P2_2_1204025\obj\Debug\netcoreapp3.1\P2_2_1204025.csprojAssemblyReference.cache
+D:\tugas\P2_2_1204025\obj\Debug\netcoreapp3.1\P2_2_1204025.AssemblyInfoInputs.cache
+D:\tugas\P2_2_1204025\obj\Debug\netcoreapp3.1\P2_2_1204025.AssemblyInfo.cs
+D:\tugas\P2_2_1204025\obj\Debug\netcoreapp3.1\P2_2_1204025.csproj.CoreCompileInputs.cache
+D:\tugas\P2_2_1204025\obj\Debug\netcoreapp3.1\P2_2_1204025.dll
+D:\tugas\P2_2_1204025\obj\Debug\netcoreapp3.1\P2_2_1204025.pdb
+d:\tugas\P2_2_1204025\obj\Debug\netcoreapp3.1\P2_2_1204025.genruntimeconfig.cache
